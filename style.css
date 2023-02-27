@@ -1,3 +1,9 @@
 .intro {
-    background-color: rgb(52, 119, 52);
+    background-color: rgb(46, 145, 104);
+    color: white;
+}
+
+.image_jumbo {
+    height: 200px;
+    width: 200px;
 }
