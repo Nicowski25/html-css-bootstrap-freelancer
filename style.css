@@ -17,3 +17,22 @@
     border: 1px solid white;
     background-color: rgb(46, 145, 104); 
 }
+
+.btn_send {
+    border: 1px solid white;
+    background-color: rgb(46, 145, 104);   
+}
+
+#site_footer {
+    background-color: rgb(36, 45, 54);
+}
+
+div i {
+    padding: 1rem;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.c_secondary {
+    color: rgb(46, 145, 104); 
+}
