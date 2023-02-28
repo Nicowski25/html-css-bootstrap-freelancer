@@ -36,3 +36,7 @@ div i {
 .c_secondary {
     color: rgb(46, 145, 104); 
 }
+
+#footer_bot {
+    background-color: rgb(33, 37, 41);
+}
